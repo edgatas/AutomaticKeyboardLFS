@@ -1,0 +1,9 @@
+C:\Users\edgar\Documents\Projects\Random_Programs\Strobe\Strobe\bin\Debug\Strobe.exe.config
+C:\Users\edgar\Documents\Projects\Random_Programs\Strobe\Strobe\bin\Debug\Strobe.exe
+C:\Users\edgar\Documents\Projects\Random_Programs\Strobe\Strobe\bin\Debug\Strobe.pdb
+C:\Users\edgar\Documents\Projects\Random_Programs\Strobe\Strobe\obj\Debug\Strobe.Properties.Resources.resources
+C:\Users\edgar\Documents\Projects\Random_Programs\Strobe\Strobe\obj\Debug\Strobe.csproj.GenerateResource.Cache
+C:\Users\edgar\Documents\Projects\Random_Programs\Strobe\Strobe\obj\Debug\Strobe.exe
+C:\Users\edgar\Documents\Projects\Random_Programs\Strobe\Strobe\obj\Debug\Strobe.pdb
+C:\Users\edgar\Documents\Projects\Random_Programs\Strobe\Strobe\obj\Debug\Strobe.mainForm.resources
+C:\Users\edgar\Documents\Projects\Random_Programs\Strobe\Strobe\obj\Debug\Strobe.csprojResolveAssemblyReference.cache
